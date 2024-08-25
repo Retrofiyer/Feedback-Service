@@ -49,7 +49,6 @@ The Feedback Microservice is a lightweight Node.js application that provides end
 ## Built With
 
 [![Node.js][nodejs.com]][nodejs-url]
-[![Swagger][swagger.com]][swagger-url]
 [![Docker][docker.com]][docker-url]
 
 <!-- GETTING STARTED -->
